@@ -1,0 +1,45 @@
+[
+  {
+    "Name": "Chicken breast",
+    "Proteins": 23,
+    "Carbohydrates": 0,
+    "Fats": 1.9
+  },
+  {
+    "Name": "Egg",
+    "Proteins": 6,
+    "Carbohydrates": 0.6,
+    "Fats": 5
+  },
+  {
+    "Name": "Oats",
+    "Proteins": 11,
+    "Carbohydrates": 62,
+    "Fats": 7
+  },
+  {
+    "Name": "Cottage cheese",
+    "Proteins": 18,
+    "Carbohydrates": 3.4,
+    "Fats": 0.5
+  },
+  {
+    "Name": "Apple",
+    "Proteins": 0.3,
+    "Carbohydrates": 14,
+    "Fats": 0.2
+  },
+  {
+    "Name": "Salmon",
+    "Proteins": 20,
+    "Carbohydrates": 0,
+    "Fats": 13
+  },
+  {
+    "Name": "Banana",
+    "Proteins": 1.1,
+    "Carbohydrates": 23,
+    "Fats": 0.3
+  }
+]
+

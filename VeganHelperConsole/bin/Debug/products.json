@@ -1,0 +1,290 @@
+[
+  {
+    "Name": "Oats",
+    "Proteins": 11,
+    "Carbohydrates": 62,
+    "Fats": 7
+  },
+  {
+    "Name": "Apple",
+    "Proteins": 0.3,
+    "Carbohydrates": 14,
+    "Fats": 0.2
+  },
+  {
+    "Name": "Banana",
+    "Proteins": 1.1,
+    "Carbohydrates": 23,
+    "Fats": 0.3
+  },
+  {
+    "Name": "Lentils (cooked)",
+    "Proteins": 9,
+    "Carbohydrates": 20,
+    "Fats": 0.4
+  },
+  {
+    "Name": "Chickpeas (cooked)",
+    "Proteins": 8.9,
+    "Carbohydrates": 27.4,
+    "Fats": 2.6
+  },
+  {
+    "Name": "Tofu (firm)",
+    "Proteins": 17,
+    "Carbohydrates": 1.9,
+    "Fats": 8.7
+  },
+  {
+    "Name": "Tempeh",
+    "Proteins": 19,
+    "Carbohydrates": 9,
+    "Fats": 11
+  },
+  {
+    "Name": "Almonds",
+    "Proteins": 21,
+    "Carbohydrates": 22,
+    "Fats": 49
+  },
+  {
+    "Name": "Peanut butter",
+    "Proteins": 25,
+    "Carbohydrates": 20,
+    "Fats": 50
+  },
+  {
+    "Name": "Brown rice (cooked)",
+    "Proteins": 2.6,
+    "Carbohydrates": 23,
+    "Fats": 0.9
+  },
+  {
+    "Name": "Quinoa (cooked)",
+    "Proteins": 4.4,
+    "Carbohydrates": 21,
+    "Fats": 1.9
+  },
+  {
+    "Name": "Sweet potato",
+    "Proteins": 1.6,
+    "Carbohydrates": 20,
+    "Fats": 0.1
+  },
+  {
+    "Name": "Spinach (raw)",
+    "Proteins": 2.9,
+    "Carbohydrates": 3.6,
+    "Fats": 0.4
+  },
+  {
+    "Name": "Avocado",
+    "Proteins": 2,
+    "Carbohydrates": 9,
+    "Fats": 15
+  },
+  {
+    "Name": "Broccoli (raw)",
+    "Proteins": 2.8,
+    "Carbohydrates": 7,
+    "Fats": 0.4
+  },
+  {
+    "Name": "Hummus",
+    "Proteins": 8,
+    "Carbohydrates": 14,
+    "Fats": 9.6
+  },
+  {
+    "Name": "Pumpkin seeds",
+    "Proteins": 30,
+    "Carbohydrates": 10,
+    "Fats": 49
+  },
+  {
+    "Name": "Sunflower seeds",
+    "Proteins": 21,
+    "Carbohydrates": 20,
+    "Fats": 51
+  },
+  {
+    "Name": "Black beans (cooked)",
+    "Proteins": 8.9,
+    "Carbohydrates": 23.7,
+    "Fats": 0.5
+  },
+  {
+    "Name": "Kidney beans (cooked)",
+    "Proteins": 8.7,
+    "Carbohydrates": 22.8,
+    "Fats": 0.5
+  },
+  {
+    "Name": "Green peas (cooked)",
+    "Proteins": 5.4,
+    "Carbohydrates": 14.5,
+    "Fats": 0.4
+  },
+  {
+    "Name": "Edamame (cooked)",
+    "Proteins": 11.2,
+    "Carbohydrates": 8.9,
+    "Fats": 5.2
+  },
+  {
+    "Name": "Seitan",
+    "Proteins": 25,
+    "Carbohydrates": 14,
+    "Fats": 1.9
+  },
+  {
+    "Name": "Couscous (cooked)",
+    "Proteins": 3.8,
+    "Carbohydrates": 23,
+    "Fats": 0.2
+  },
+  {
+    "Name": "Millet (cooked)",
+    "Proteins": 3.5,
+    "Carbohydrates": 23.7,
+    "Fats": 1
+  },
+  {
+    "Name": "Chia seeds",
+    "Proteins": 16.5,
+    "Carbohydrates": 42,
+    "Fats": 31
+  },
+  {
+    "Name": "Flax seeds",
+    "Proteins": 18,
+    "Carbohydrates": 29,
+    "Fats": 42
+  },
+  {
+    "Name": "Walnuts",
+    "Proteins": 15,
+    "Carbohydrates": 14,
+    "Fats": 65
+  },
+  {
+    "Name": "Hazelnuts",
+    "Proteins": 15,
+    "Carbohydrates": 17,
+    "Fats": 61
+  },
+  {
+    "Name": "Coconut meat (raw)",
+    "Proteins": 3.3,
+    "Carbohydrates": 15,
+    "Fats": 33
+  },
+  {
+    "Name": "Carrot (raw)",
+    "Proteins": 0.9,
+    "Carbohydrates": 10,
+    "Fats": 0.2
+  },
+  {
+    "Name": "Zucchini (raw)",
+    "Proteins": 1.2,
+    "Carbohydrates": 3.1,
+    "Fats": 0.3
+  },
+  {
+    "Name": "Bell pepper (red, raw)",
+    "Proteins": 1,
+    "Carbohydrates": 6,
+    "Fats": 0.3
+  },
+  {
+    "Name": "Barley (cooked)",
+    "Proteins": 2.3,
+    "Carbohydrates": 28.2,
+    "Fats": 0.4
+  },
+  {
+    "Name": "Buckwheat (cooked)",
+    "Proteins": 3.4,
+    "Carbohydrates": 20,
+    "Fats": 0.6
+  },
+  {
+    "Name": "Amaranth (cooked)",
+    "Proteins": 3.7,
+    "Carbohydrates": 19,
+    "Fats": 1.6
+  },
+  {
+    "Name": "Red lentils (cooked)",
+    "Proteins": 9.0,
+    "Carbohydrates": 20.2,
+    "Fats": 0.4
+  },
+  {
+    "Name": "Green beans (cooked)",
+    "Proteins": 1.9,
+    "Carbohydrates": 7,
+    "Fats": 0.1
+  },
+  {
+    "Name": "Beetroot (cooked)",
+    "Proteins": 1.6,
+    "Carbohydrates": 9.6,
+    "Fats": 0.2
+  },
+  {
+    "Name": "Cabbage (raw)",
+    "Proteins": 1.3,
+    "Carbohydrates": 6,
+    "Fats": 0.1
+  },
+  {
+    "Name": "Kale (raw)",
+    "Proteins": 4.3,
+    "Carbohydrates": 9,
+    "Fats": 0.9
+  },
+  {
+    "Name": "Mushrooms (white, raw)",
+    "Proteins": 3.1,
+    "Carbohydrates": 3.3,
+    "Fats": 0.3
+  },
+  {
+    "Name": "Eggplant (raw)",
+    "Proteins": 1,
+    "Carbohydrates": 6,
+    "Fats": 0.2
+  },
+  {
+    "Name": "Cucumber (raw)",
+    "Proteins": 0.7,
+    "Carbohydrates": 3.6,
+    "Fats": 0.1
+  },
+  {
+    "Name": "Tomato (raw)",
+    "Proteins": 0.9,
+    "Carbohydrates": 3.9,
+    "Fats": 0.2
+  },
+  {
+    "Name": "Dates (dried)",
+    "Proteins": 2.5,
+    "Carbohydrates": 75,
+    "Fats": 0.4
+  },
+  {
+    "Name": "Raisins",
+    "Proteins": 3.1,
+    "Carbohydrates": 79,
+    "Fats": 0.5
+  },
+  {
+    "Name": "Fig (dried)",
+    "Proteins": 3.6,
+    "Carbohydrates": 64,
+    "Fats": 0.9
+  }
+]
